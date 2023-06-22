@@ -16,7 +16,7 @@ Welcome to the Mapty App project! This web application allows you to track your 
 - Save your workout data to local storage so that it persists even after you close the browser.
 
 ## Getting Started
-To get started with the Mapty App, you can simply visit the live demo at https://project-mapty-app.netlify.app. Alternatively, you can clone the repository to your local machine and run the app locally.
+To get started with the Mapty App, you can simply visit the live demo at https://jooseeph.github.io/Mapty-App/. Alternatively, you can clone the repository to your local machine and run the app locally.
 
 ## Prerequisites
 To run the Mapty App locally, you will need to have the following software installed on your machine:
